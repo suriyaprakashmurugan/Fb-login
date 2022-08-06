@@ -44,7 +44,7 @@ export default function Login() {
                 
                 </label><br/> 
                 <button type='submit' className='but-Style' onClick={login}>login</button><br/>
-                <Link className='reg-link' to='/sigup'>Your new user please Register here?</Link><br/>
+                <Link className='reg-link' to='/sigup'>Your new user please Register here?</Link><br/><br/>
                 <Link className='reg-link' to='/phoneAuth'>sigin-up with phone?</Link>
             </form>
             <div className="ggl_but">
